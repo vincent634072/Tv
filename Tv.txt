@@ -1,3 +1,4 @@
 cctv5,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000005
 cctv5+,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000507
 cctv6,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000006
+cctv16,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000016
