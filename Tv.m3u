@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/cctv5" tvg-id="cctv5" tvg-name="cctv5",cctv5
-http://php.jdshipin.com/TVOD/gsyd.php?id=9900000005
+http://61.136.172.236:9901/tsfile/live/0016_1.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5+" tvg-id="CCTV5+" tvg-name="CCTV5+",cctv5+
 http://php.jdshipin.com/TVOD/gsyd.php?id=9900000507
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV6" tvg-id="CCTV6" tvg-name="CCTV6",cctv6
